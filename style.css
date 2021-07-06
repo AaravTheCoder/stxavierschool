@@ -49,3 +49,9 @@ input{
 .movie_text span{
     color: #ff7700;
 }
+.list-group-item{
+    margin: 20px;
+}
+.list-group-item img{
+    height: 400px;
+}
